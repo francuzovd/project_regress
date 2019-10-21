@@ -1,6 +1,8 @@
 # project_regress
 Project from GeekBrains course. Goal: predict house value
 
+Ссылка на ноутбук в Colaboratory - https://drive.google.com/file/d/1y4CgZAPFg4WQzvvc3SMyAQV7FK0Byv4Z/view?usp=sharing
+
 Курсовой проект для курса "Python для Data Science"
 
 Материалы к проекту (файлы):
